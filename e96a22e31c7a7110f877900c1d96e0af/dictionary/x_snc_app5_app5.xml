@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="705be2671c7a7110f877900c1d96e093" label="App5" max_length="40" name="x_snc_app5_app5" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Address" max_length="40" name="address" type="string"/>
+    </element>
+</database>

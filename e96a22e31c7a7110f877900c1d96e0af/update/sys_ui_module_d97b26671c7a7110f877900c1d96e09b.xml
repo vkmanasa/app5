@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="App5">1d7b26671c7a7110f877900c1d96e09a</application>
+        <filter/>
+        <name>App5s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_app5.app5_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-05 10:37:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d97b26671c7a7110f877900c1d96e09b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App5s</sys_name>
+        <sys_package display_value="App5" source="x_snc_app5">e96a22e31c7a7110f877900c1d96e0af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App5">e96a22e31c7a7110f877900c1d96e0af</sys_scope>
+        <sys_update_name>sys_ui_module_d97b26671c7a7110f877900c1d96e09b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-05 10:37:02</sys_updated_on>
+        <table>x_snc_app5_app5</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
